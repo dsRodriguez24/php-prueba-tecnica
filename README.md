@@ -2,12 +2,13 @@
 
 Instrucciones básicas:
 
+- Clonar en carpeta C:\xampp\htdocs\
 - Inicializar servidor XAMPP
 - Instalar dependencias (desde la carpeta api): `composer install`
 - Crear la base de datos MySQL `prueba_tecnica` (o ajustar `.env` / `config.php`).
 - Ejecutar el seeder: `php database/seed.php` (crea tablas y datos de prueba).
 - Iniciar servidor PHP en `public/`: `php -S localhost:8000 -t public`
-- Mostrar el front en  PHP en `http://localhost/prueba-tecnica-php`
+- Mostrar el front en  PHP en `http://localhost/prueba-tecnica-php/front`
 
 
 Endpoints principales (prefijo base: `/api/v1`):

@@ -1,4 +1,4 @@
-# Pacientes - Backend (PHP)
+# Prueba Tecnica php
 
 Instrucciones básicas:
 
